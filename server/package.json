@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=24.22.1 <25"
+  },
   "name": "server",
   "type": "module",
   "version": "1.0.0",
